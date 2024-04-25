@@ -17,6 +17,17 @@ Untuk Fitur masih minim:
 - dll
 
 ## Tampilan Website
+![login](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/7a827dd9-9be8-4d55-aac7-da30c447db27)
+
+![register](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/a82373f5-1651-4c95-ae4f-f311f1996645)
+
+![home](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/fc8daff5-8953-4318-bfa5-8b6edf4ab6ef)
+
+![buat album](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/f84547dd-1960-4620-8b07-3242c25b60dd)
+
+![upload foto](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/0b21d08e-7a78-4322-8b08-facc57dc7b34)
+
+![foto](https://github.com/adriansyahpurdi88/ujikom-purdit/assets/167829340/5bd165e7-a373-4288-a508-9e5671c4ba5b)
 
 
 
