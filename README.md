@@ -2,7 +2,7 @@
 # Galery
 
 ## Tentang Website
-
+ini adalah web gallery untuk menyimpan foto
 
 ## Fitur
 
