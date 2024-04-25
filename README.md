@@ -55,6 +55,7 @@ Untuk Fitur masih minim:
 ## Instalasi
 1. Clone Repository
 ```
+https://github.com/adriansyahpurdi88/ujikom-purdit
 ```
 
 2. Install Composer
